@@ -7,6 +7,7 @@ function App() {
       <h1>Kraken testing</h1>
       <button>Save</button>
       <p>Some paragraph</p>
+      <a href="">some link</a>
     </div>
   );
 }
