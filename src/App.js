@@ -11,6 +11,7 @@ function App() {
       <p>
         <strong>Some text</strong>
       </p>
+      <h2>Lets play</h2>
     </div>
   );
 }
